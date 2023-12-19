@@ -16,7 +16,7 @@ This is the server-side of the application built using Node.js. It serves the Re
 ## Setup
 
 1. Clone the repository:
-   git clone https://github.com/akhil2188/todoApp.git
+   git clone [repository link]
 2. Navigate to the server directory:
    cd server
 3. Install dependencies:
