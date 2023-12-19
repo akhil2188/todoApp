@@ -40,3 +40,9 @@ This is the client-side of the application built using React. It interacts with 
 4. Open your browser and visit http://localhost:3001 to view the React app.
 
 
+## API Endpoints
+/api/endpoint1 - base: http://localhost:3000/todos
+/api/endpoint2 - for specific id: http://localhost:3000/todos/:id
+
+
+...
