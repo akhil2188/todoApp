@@ -41,8 +41,8 @@ This is the client-side of the application built using React. It interacts with 
 
 
 ## API Endpoints
-/api/endpoint1 - base: http://localhost:3000/todos
-/api/endpoint2 - for specific id: http://localhost:3000/todos/:id
+1. /api/endpoint1 - base: http://localhost:3000/todos
+2. /api/endpoint2 - for specific id: http://localhost:3000/todos/:id
 
 
 ...
