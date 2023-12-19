@@ -16,7 +16,7 @@ This is the server-side of the application built using Node.js. It serves the Re
 ## Setup
 
 1. Clone the repository:
-   git clone https://github.com/your-username/your-node-server.git
+   git clone https://github.com/akhil2188/todoApp.git
 2. Navigate to the server directory:
    cd server
 3. Install dependencies:
@@ -31,14 +31,12 @@ This is the server-side of the application built using Node.js. It serves the Re
 This is the client-side of the application built using React. It interacts with a Node.js server running on port 3000.
 ## Setup
 
-1. Clone the repository:
-   git clone https://github.com/your-username/your-react-app.git
-2. Navigate to the client directory:
+1. Navigate to the client directory:
    cd client
-3. Install dependencies:
+2. Install dependencies:
    npm install
-4. Run the development server:
+3. Run the development server:
    npm start
-5. Open your browser and visit http://localhost:3001 to view the React app.
+4. Open your browser and visit http://localhost:3001 to view the React app.
 
 
